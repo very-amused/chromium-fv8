@@ -1,0 +1,3 @@
+pacman -S --needed python perl gcc gcc-libs bison flex gperf pkgconfig \
+nss alsa-lib glib2 gtk3 nspr freetype2 cairo dbus xorg-server-xvfb \
+xorg-xdpyinfo
